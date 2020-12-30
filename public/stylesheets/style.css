@@ -1,0 +1,23 @@
+body {
+	padding: 50px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	background-color: rgb(117, 185, 86);
+}
+:root {
+	--lg-color: linear-gradient(to right, blue, grey);
+}
+
+#nav {
+	text-align: center;
+	font-weight: 600;
+	color: rgb(243, 151, 151);
+	background-color: rgb(107, 163, 144);
+	justify-content: center;
+}
+#tag {
+	text-align: center;
+	font-weight: 600;
+	color: rgb(106, 121, 107);
+	background-color: rgb(107, 163, 144);
+	justify-content: center;
+}
